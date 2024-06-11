@@ -10,10 +10,10 @@ This serves as a template for any webpage background, allowing for fine-tuning o
 
 ## Demo
 
-https://saladsbowl.dev
+N/A
 
 
 ## Authors
 
-- [@SaladGFL](https://www.github.com/SaladGFL)
+- [@SaladsBowl](https://www.github.com/SaladsBowl)
 
